@@ -30,9 +30,6 @@ This project is a Data Analytics Dashboard built using Dash and Plotly. It provi
 
 [![Dashboard Demo](https://github.com/Abhishek-Maheshwari-778/E_Commerce_Sales_Dashboard/blob/main/Dashboard.mp4)
 
-### 🔄 Auto-play Embedded Video (May not work on GitHub directly)
-If your markdown viewer supports video embedding, the demo should autoplay below:
-
 
 
 ## Technologies Used
