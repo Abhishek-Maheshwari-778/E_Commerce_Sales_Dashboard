@@ -25,6 +25,14 @@ This project is a Data Analytics Dashboard built using Dash and Plotly. It provi
 - **Filters and Selections**: Dynamic filtering for insights.
 - **Responsive UI**: Built with Dash Bootstrap Components for an improved user experience.
 
+## 📸 Screenshots
+
+![Dashboard Screenshot 1](https://github.com/Abhishek-Maheshwari-778/E_Commerce_Sales_Dashboard/raw/main/a1.png)
+![Dashboard Screenshot 2](https://github.com/Abhishek-Maheshwari-778/E_Commerce_Sales_Dashboard/raw/main/a2.png)
+![Dashboard Screenshot 3](https://github.com/Abhishek-Maheshwari-778/E_Commerce_Sales_Dashboard/raw/main/a3.png)
+![Dashboard Screenshot 4](https://github.com/Abhishek-Maheshwari-778/E_Commerce_Sales_Dashboard/raw/main/a4.png)
+![Dashboard Screenshot 5](https://github.com/Abhishek-Maheshwari-778/E_Commerce_Sales_Dashboard/raw/main/a5.png)
+
 ## 🎥 Demo Video  
 > Click below to watch the dashboard demo:
 
