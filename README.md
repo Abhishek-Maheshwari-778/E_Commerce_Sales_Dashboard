@@ -38,7 +38,9 @@ This project is a Data Analytics Dashboard built using Dash and Plotly. It provi
 
 [![Dashboard Demo](https://github.com/Abhishek-Maheshwari-778/E_Commerce_Sales_Dashboard/blob/main/Dashboard.mp4)
 
-
+## OR
+## Check out video in my Linkedin = 
+![Dashboard Linkedin ](https://www.linkedin.com/posts/abhishek-maheshwari-220a88338_dataanalytics-ecommerce-businessintelligence-activity-7313410374685351936-WbM3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTgdzgBOPk4FBA4MCe4sA9Y3uUUBaXtquo)
 
 ## Technologies Used
 - **Python**
